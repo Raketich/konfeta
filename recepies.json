@@ -1,0 +1,39 @@
+{
+    "Banana-Strawberry": {
+        "CakeName": "Banana Strawberry",
+        "ingridients": {
+            "banana": 500,
+            "strawberry": 500,
+            "muka": 600,
+            "sugar": 300,
+            "eggs": 5,
+            "milk": 1
+        },
+        "description": "Tasty Sweety Cake",
+        "steps": {
+            "1": "blankpaper bs1",
+            "2": "blankpaper bs2",
+            "3": "blankpaper bs3",
+            "4": "blankpaper bs3"
+        }
+    },
+
+    "Choko Choko": {
+        "CakeName": "Choko Choko",
+        "ingridients": {
+            "choko": 300,
+            "arahis": 200,
+            "muka": 400,
+            "sugar": 200,
+            "eggs": 3,
+            "milk": 1
+        },
+        "description": "Tasty Sweety Cake",
+        "steps": {
+            "1": "blankpaper cc1",
+            "2": "blankpaper cc2",
+            "3": "blankpaper cc3",
+            "4": "blankpaper cc4"
+        }
+    }
+}
